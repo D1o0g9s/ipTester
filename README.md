@@ -8,7 +8,7 @@ USAGE:
 		need to figure out how to make this compatible with the latest 
 		release. 
 
-<Command Line Linux> 
+[Command Line Linux]
 	1. Clone ipTester from github and copy in the htmlunit-2.23-OSGi.jar
 		you downloaded from sourceforge. 
 	2. cd into project folder from command line
@@ -23,7 +23,7 @@ $ java -cp ./htmlunit-2.23-OSGi.jar:. IpTester
 ##.###.###.### 
 
 
-<IDE> 
+[IDE]
 	1. Create a new project in your IDE with default package
 	2. Clone ipTester and copy IpTester.java into the project src folder
 	3. Include htmlunit-2.23-OSGi.jar to the library dependencies of the 
