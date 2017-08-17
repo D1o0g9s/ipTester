@@ -19,7 +19,7 @@ downloaded from sourceforge.
 5. Wait until program terminates. It takes a while (>20 sec on my computer) to 
 get the html unit page.  
   
-#### Sample Command Line Usage + Output (- represents a digit)  
+#### Sample Command Line Usage + Output (- represents a digit)
 $ javac -cp ./htmlunit-2.23-OSGi.jar:. IpTester.java  
 $ java -cp ./htmlunit-2.23-OSGi.jar:. IpTester  
 --.---.---.---  
@@ -36,13 +36,13 @@ the program can find the dependencies.
 5. Wait until program terminates. It takes a while (>20 sec on my computer) to 
 get the html unit page.  
 
-#### Sample NetBeans Output (- represents a digit)  
+#### Sample NetBeans Output (- represents a digit) 
 run:  
 --.---.---.---  
 BUILD SUCCESSFUL (total time: 28 seconds)  
 
 
 
-###### Last Updated: August 17, 2017
+##### Last Updated: August 17, 2017
 	
 
