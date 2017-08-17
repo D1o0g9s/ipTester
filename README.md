@@ -1,7 +1,7 @@
 # README
 
-**IpTester is an inaccurately named project that gets the user's public IP 
-address by scraping whatismyipaddress.com.**
+IpTester is an inaccurately named project that gets the user's public IP 
+address by scraping whatismyipaddress.com.
 
 ## USAGE 
 0. Download htmlunit-2.23-OSGi.jar from   
@@ -43,6 +43,6 @@ BUILD SUCCESSFUL (total time: 28 seconds)
 
 
 
-######Last Updated: August 17, 2017
+###### Last Updated: August 17, 2017
 	
 
